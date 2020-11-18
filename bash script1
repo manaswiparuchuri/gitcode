@@ -1,0 +1,6 @@
+#!bin/bash
+
+read -p " first number:" numb
+if [ $numb > 4 ]
+echo "entered $numb"
+fi
